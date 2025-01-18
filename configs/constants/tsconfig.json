@@ -1,7 +1,0 @@
-{
-    "extends": "@repo/typescript/tsconfig.base.json",
-    "compilerOptions": {
-        "resolveJsonModule": true
-    },
-    "include": ["."]
-}
