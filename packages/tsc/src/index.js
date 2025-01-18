@@ -1,4 +1,2 @@
-var greet = function (name) {
-    return 'Hello, '.concat(name, '!')
-}
+var greet = (name) => 'Hello, '.concat(name, '!')
 console.log(greet('TypeScript'))
